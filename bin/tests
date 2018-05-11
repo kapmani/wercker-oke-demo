@@ -4,6 +4,6 @@ cd $(dirname "$0")
 
 . ./activate_env
 
-# Start our application...
+# Start our application....
 
 nosetests -v ../get_ip/tests.py
